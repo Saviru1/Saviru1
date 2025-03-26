@@ -29,6 +29,8 @@
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/STMicroelectronics_logo.svg/1024px-STMicroelectronics_logo.svg.png" alt="STM32" width="100" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/ESP8266_Logo.svg/2560px-ESP8266_Logo.svg.png" alt="ESP8266" width="80" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/PlatformIO_logo.svg" alt="PlatformIO" width="80" height="40"/>
 </p>
 
 #### **🌐 Web Development**
@@ -52,6 +54,7 @@
 🔹 **[Project 1: Multimeter with STM32 & ESP8266](#)** - Smart measurement device integrating multiple sensors.  
 🔹 **[Project 2: Power System Simulation](#)** - Analyzing electrical grids and fault tolerance.  
 🔹 **[Project 3: Embedded System Prototyping](#)** - Custom microcontroller-based solutions for real-world applications.  
+🔹 **[Project 4: IoT Automation with ESP8266](#)** - Home automation system using Wi-Fi and MQTT protocols.
 
 ---
 
