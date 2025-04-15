@@ -10,7 +10,7 @@
 ### 🌟 About Me
 - 🎓 **Electrical & Electronics Engineering** student passionate about **embedded systems, circuit design, and automation**.
 - 🌱 Currently learning **Power Systems, Digital Electronics, Control Systems, and Embedded Systems**.
-- 💡 Experienced in **Arduino , ESP, STM32, and PCB design**—I can help with **microcontroller programming, circuit design, and prototyping**.
+- 💡 Experienced in **Arduino , ESP, STM32, and PCB design** I can help with **microcontroller programming, circuit design, and prototyping**.
 - 🎯 Aspiring to become a **tech leader and innovator** in the field of engineering.
 
 ---
