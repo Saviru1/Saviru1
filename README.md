@@ -5,8 +5,11 @@ I specialize in Embedded Systems, PCB Design, IoT, Robotics, and Edge AI, transf
 My experience includes multi-layer PCB design, STM32/ESP32 firmware development, wireless IoT communication (LoRa/WiFi), and AI-powered computer vision systems. I build solutions that are not only functional, but reliable, efficient, and scalable.
 
 🔹 Designed autonomous robots for national competitions
+
 🔹 Built IoT environmental monitoring networks
+
 🔹 Developed AI-based people counting & localization systems
+
 🔹 Engineered precision measurement and embedded data acquisition devices
 
 Tools & Technologies: C/C++, Python, Altium, KiCad, ESP32/STM32, OpenCV, MATLAB, LTspice, GitHub
